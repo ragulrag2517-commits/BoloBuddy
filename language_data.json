@@ -1,0 +1,38 @@
+{
+  "languages": [
+    {"code": "hi", "name": "Hindi", "script": "Devanagari"},
+    {"code": "sat", "name": "Santhali", "script": "Ol Chiki or community-preferred script"},
+    {"code": "hoc", "name": "Ho", "script": "Warang Citi or community-preferred script"},
+    {"code": "unr", "name": "Mundari", "script": "Devanagari or community-preferred script"}
+  ],
+  "words": [
+    {"id": "dog", "en": "dog", "category": "Animals", "emoji": "🐕", "translations": {"hi": {"text": "कुत्ता", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "cat", "en": "cat", "category": "Animals", "emoji": "🐈", "translations": {"hi": {"text": "बिल्ली", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "elephant", "en": "elephant", "category": "Animals", "emoji": "🐘", "translations": {"hi": {"text": "हाथी", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "bird", "en": "bird", "category": "Animals", "emoji": "🐦", "translations": {"hi": {"text": "चिड़िया", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "mango", "en": "mango", "category": "Fruits", "emoji": "🥭", "translations": {"hi": {"text": "आम", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "banana", "en": "banana", "category": "Fruits", "emoji": "🍌", "translations": {"hi": {"text": "केला", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "sun", "en": "sun", "category": "Nature", "emoji": "☀️", "translations": {"hi": {"text": "सूरज", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "water", "en": "water", "category": "Nature", "emoji": "💧", "translations": {"hi": {"text": "पानी", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "red", "en": "red", "category": "Colours", "emoji": "🔴", "translations": {"hi": {"text": "लाल", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "blue", "en": "blue", "category": "Colours", "emoji": "🔵", "translations": {"hi": {"text": "नीला", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "one", "en": "one", "category": "Numbers", "emoji": "1️⃣", "translations": {"hi": {"text": "एक", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "two", "en": "two", "category": "Numbers", "emoji": "2️⃣", "translations": {"hi": {"text": "दो", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "book", "en": "book", "category": "Objects", "emoji": "📚", "translations": {"hi": {"text": "किताब", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}},
+    {"id": "house", "en": "house", "category": "Objects", "emoji": "🏠", "translations": {"hi": {"text": "घर", "status": "approved", "source": "Starter Hindi vocabulary; confirm regional usage with teachers."}}}
+  ],
+  "stories": [
+    {
+      "id": "kind-rabbit",
+      "language": "hi",
+      "title": "मीठा आम",
+      "topic": "Kindness",
+      "illustration": "🐇🥭🌳",
+      "text": "एक छोटे गाँव में मीना के पास एक मीठा आम था। उसने आम को अपने दोस्त के साथ बाँटा। दोनों ने खुशी से आम खाया और साथ खेला।",
+      "moral": "बाँटने से खुशी बढ़ती है।",
+      "question": "मीना ने आम किसके साथ बाँटा?",
+      "choices": ["अपने दोस्त के साथ", "अपने खिलौने के साथ", "किसी के साथ नहीं"],
+      "answer": "अपने दोस्त के साथ"
+    }
+  ]
+}
